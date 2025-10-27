@@ -1,2 +1,2 @@
 # Sign_Language_MNIST
-A machine learning project for the University
+A machine learning project taht classified sign language
